@@ -8,4 +8,23 @@ Back  End : NodeJs
 OCR : TesseractJs
 
 
+HOW TO USE : 
+
+1 Install NodeJs in your system. 
+2 Create a Node Project 
+
+3 Packages you need to install in your NodeJs Project
+ - multer , tesseract-js , express , cors , path
+ 
+ Syntax : npm install express multer cors path tesseract-js
+ 
+ 
+ 
+ 
+ 
+ for Front End
+ 1 Create a react project
+ 2 Replace your src folder created in your project by the src folder in this repo.
+
+
 
