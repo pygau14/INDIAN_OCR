@@ -16,7 +16,7 @@ HOW TO USE :
 3 Packages you need to install in your NodeJs Project
  - multer , tesseract-js , express , cors , path
  
- Syntax : npm install express multer cors path tesseract-js
+ Syntax : npm install express multer cors path tesseract.js
  
  
  
